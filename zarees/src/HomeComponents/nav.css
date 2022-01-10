@@ -1,0 +1,24 @@
+.makecenter{
+display: flex;
+justify-content: center;
+align-items: center;
+}
+
+.menubar
+{
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+.banner{
+    height:250px;
+    width:92%;
+    align-items: center;
+    margin-left: 70px;
+}
+.container{
+    border:none;
+    border-radius: 2px;
+    height:100%;
+    width: 90%;
+}
